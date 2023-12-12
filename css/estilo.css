@@ -1,0 +1,169 @@
+footer {
+    position: relative;
+    bottom: 0;
+    background-color: #2400FF;
+    height: 100px;
+
+}
+
+footer h1 {
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+    font-size: medium;
+}
+
+footer p {
+    font-weight: bold;
+}
+
+header img {
+    width: 70px;
+    height: 70px;
+}
+
+#section-banners img {
+    height: 500px;
+}
+
+#section-banners {
+    
+    border: 10px solid #011853;
+}
+
+#section-vendidos {
+    text-align: center;
+}
+
+#section-vendidos h2 {
+    font-weight: bold;
+    padding: 20px;
+    color: #2400FF;
+}
+
+#section-vendidos img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+#section-vendidos .card {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#section-vendidos .preco {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#voltar-topo {
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+    margin-right: 42%;
+    
+}
+
+#botao-pesquisa {
+    background-color: black;
+    border: black;
+}
+
+header p {
+    font-size: 25px;
+    font-weight: bold;
+    color: #2400FF;
+}
+
+body {
+    background-color: #011853;
+}
+
+#section-vendidos .card {
+    background-color:aqua;
+}
+
+#section-login {
+    margin-top: 100px;
+}
+
+#section-login h1 {
+    text-align: center;
+}
+
+#section-login input {
+    width: 100%;
+}
+
+#section-cadastro {
+    padding: 5px;
+    text-align: center;
+    background-color: #011853;
+}
+
+#form-cadastrar {
+    padding: 50px;
+    display: none;
+}
+
+#section-login h1 {
+    color: #2400FF;
+
+}
+#section-cadastro h1 {
+    color: #2400FF;
+}
+#section-cadastro p {
+    color: #2400FF;
+}
+footer #logo {
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    position: absolute;
+    bottom: 10px;
+    
+}
+
+footer #instagram-icon {
+    margin: 10px;
+    position: absolute;
+    bottom: 110px;
+    left: 87%;
+    top: 30px;
+    
+}
+footer #facebook-icon {
+    margin: 10px;
+    position: absolute;
+    bottom: 110px;
+    left: 87%;
+    top: 5px;
+    
+}
+
+footer #facebook {
+    margin: 10px;
+    position: absolute;
+    bottom: 110px;
+    left: 89%;
+    top: 5px;
+
+}
+footer #instagram {
+    margin: 10px;
+    position: absolute;
+    bottom: 110px;
+    left: 89%;
+    top: 30px;
+    
+
+}
+
+
+
+
+    
+
